@@ -35,7 +35,7 @@ h4 {
 
 p {
   margin-bottom: 10px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #646464;
   font-size: 20px;
   line-height: 32px;
@@ -420,7 +420,7 @@ figcaption {
   position: relative;
   top: 0px;
   display: block;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #8d8d8d;
   font-size: 24px;
   line-height: 36px;
@@ -626,7 +626,7 @@ figcaption {
   display: block;
   width: 64%;
   margin: 0px auto;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #646464;
   font-size: 32px;
   line-height: 48px;
@@ -638,7 +638,7 @@ figcaption {
   display: block;
   margin-right: auto;
   margin-left: auto;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #646464;
   font-size: 38px;
   line-height: 46px;
@@ -688,7 +688,7 @@ figcaption {
   display: block;
   width: 65%;
   margin: 0px auto;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #646464;
   font-size: 18px;
   line-height: 26px;
@@ -731,7 +731,7 @@ figcaption {
   display: block;
   margin: 0px auto;
   padding-top: 0px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #fff;
   font-size: 66px;
   line-height: 66px;
@@ -821,7 +821,7 @@ figcaption {
   display: block;
   width: 75%;
   margin: 20px auto;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #fff;
   font-size: 26px;
   line-height: 38px;
@@ -852,7 +852,7 @@ figcaption {
   background-color: transparent;
   -webkit-transition: background-color 700ms ease;
   transition: background-color 700ms ease;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #32e29c;
   font-size: 16px;
   font-weight: 400;
@@ -1028,7 +1028,7 @@ figcaption {
 
 .formheader {
   margin-top: 0px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #646464;
   font-size: 27px;
   font-weight: 400;
@@ -1449,7 +1449,7 @@ figcaption {
 .large-feature-title {
   display: block;
   margin-top: 0px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #fff;
   font-size: 30px;
   text-align: left;
@@ -1746,7 +1746,7 @@ figcaption {
 
 .you-may-also-like-heading {
   margin-bottom: 20px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #646464;
   font-size: 18px;
   font-weight: 400;
@@ -1846,7 +1846,7 @@ figcaption {
 .published-date-dark {
   display: none;
   float: left;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #646464;
   font-size: 14px;
   font-weight: 400;
@@ -1904,14 +1904,14 @@ figcaption {
 .newsletter-email-text {
   padding-top: 25px;
   padding-bottom: 25px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #646464;
   font-size: 16px;
   font-weight: 400;
 }
 
 .success-text {
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #32e29c;
   font-size: 20px;
   line-height: 36px;
@@ -1936,7 +1936,7 @@ figcaption {
 
 .error-message-box {
   background-color: #edfa68;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
 }
 
 .magicmenu {
@@ -1967,7 +1967,7 @@ figcaption {
 }
 
 .emptystatetext {
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #646464;
   font-size: 16px;
 }
@@ -1993,7 +1993,7 @@ figcaption {
 }
 
 .bg-video-heading {
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   font-weight: 400;
 }
 
@@ -2041,7 +2041,7 @@ figcaption {
 .nav-button {
   padding-top: 0px;
   padding-bottom: 0px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
 }
 
 .menu-button {
@@ -2055,7 +2055,7 @@ figcaption {
   background-color: #ff7e67;
   -webkit-transition: background-color 600ms ease;
   transition: background-color 600ms ease;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #fff;
   font-weight: 400;
   cursor: pointer;
@@ -2119,7 +2119,7 @@ figcaption {
 
 .faq-text {
   margin-bottom: 30px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: hsla(0, 0%, 39%, .6);
   font-size: 16px;
   line-height: 26px;
@@ -2145,7 +2145,7 @@ figcaption {
 
 .faq-text-title {
   padding-bottom: 12px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #646464;
   font-size: 16px;
 }
@@ -2213,7 +2213,7 @@ figcaption {
 
 .type-of-business {
   margin-top: 30px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #646464;
   font-size: 20px;
   font-weight: 300;
@@ -2223,7 +2223,7 @@ figcaption {
 .price {
   margin-top: 30px;
   margin-bottom: 20px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #32e29c;
   font-size: 65px;
   font-weight: 300;
@@ -2232,7 +2232,7 @@ figcaption {
 
 .terms {
   margin-top: 0px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #8d8d8d;
   font-size: 16px;
   font-weight: 300;
@@ -2403,7 +2403,7 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #40b9fc;
   font-size: 14px;
   font-weight: 400;
@@ -2447,7 +2447,7 @@ figcaption {
   background-color: transparent;
   -webkit-transition: background-color 500ms ease;
   transition: background-color 500ms ease;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #32e29c;
   font-size: 17px;
   font-weight: 400;
@@ -2729,7 +2729,7 @@ figcaption {
   background-color: transparent;
   -webkit-transition: background-color 500ms ease;
   transition: background-color 500ms ease;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #40b9fc;
   font-size: 16px;
   font-weight: 400;
@@ -2884,7 +2884,7 @@ figcaption {
   left: 0px;
   top: 24%;
   right: 0px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #fff;
   font-size: 20px;
   line-height: 30px;
@@ -2920,7 +2920,7 @@ figcaption {
 
 .heading-2 {
   margin-top: 0px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: rgba(0, 0, 0, .45);
   font-size: 18px;
   font-weight: 400;
@@ -2946,7 +2946,7 @@ figcaption {
   right: 0px;
   bottom: 0px;
   margin-top: 0px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #ff9953;
   font-size: 14px;
   font-weight: 400;
@@ -2975,7 +2975,7 @@ figcaption {
 .heading-3 {
   margin-top: 20px;
   margin-left: 15px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #ff6f6f;
   font-size: 16px;
   line-height: 20px;
@@ -3044,14 +3044,14 @@ figcaption {
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #fff;
   font-weight: 400;
 }
 
 .field-label.christmas {
   margin-left: 30px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   font-style: italic;
   font-weight: 400;
 }
@@ -3093,7 +3093,7 @@ figcaption {
 }
 
 .text-block-2 {
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #fff;
   font-size: 16px;
 }
@@ -3107,7 +3107,7 @@ figcaption {
 }
 
 .text-block-3 {
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #fff;
   text-align: center;
 }
@@ -4115,7 +4115,7 @@ figcaption {
   float: left;
   border-bottom: 1px none #eaeaea;
   background-color: #f6f5f5;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
 }
 
 .testimonial-description.right {
@@ -4219,7 +4219,7 @@ figcaption {
 }
 
 .feature-title {
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #646464;
   font-size: 16px;
   font-weight: 400;
@@ -4678,11 +4678,11 @@ figcaption {
 }
 
 .link-2 {
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
 }
 
 .link-3 {
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
 }
 
 .empty-state {
@@ -4690,7 +4690,7 @@ figcaption {
 }
 
 .text-block-6 {
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #ff7e67;
   font-size: 20px;
 }
@@ -4779,7 +4779,7 @@ figcaption {
   margin-right: 15px;
   padding: 25px 0px 25px 15px;
   border-radius: 2px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   font-size: 16px;
 }
 
@@ -4788,13 +4788,13 @@ figcaption {
   padding: 14px 22px;
   border-radius: 2px;
   background-color: #32e29c;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   font-size: 16px;
   line-height: 14px;
 }
 
 .text-block-7 {
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #32e29c;
   font-size: 16px;
 }
@@ -4830,7 +4830,7 @@ figcaption {
 }
 
 .confirmation-header {
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #32e29c;
   font-size: 42px;
   font-weight: 400;
@@ -5326,12 +5326,12 @@ figcaption {
 }
 
 .heading-5 {
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #32e29c;
 }
 
 .text-block-8 {
-  font-family: Lato, sans-serif;
+  font-family: 'Lato - Web', sans-serif;
   color: #646464;
 }
 
@@ -6135,7 +6135,7 @@ html.w-mod-js *[data-ix="bulb-appear"] {
     padding-bottom: 25px;
     float: right;
     clear: right;
-    font-family: Lato, sans-serif;
+    font-family: 'Lato - Web', sans-serif;
     color: #646464;
     font-size: 18px;
   }
@@ -6266,7 +6266,7 @@ html.w-mod-js *[data-ix="bulb-appear"] {
     padding-right: 60px;
     padding-bottom: 25px;
     float: right;
-    font-family: Lato, sans-serif;
+    font-family: 'Lato - Web', sans-serif;
     font-size: 18px;
   }
   .image-side {
@@ -6910,7 +6910,7 @@ html.w-mod-js *[data-ix="bulb-appear"] {
     display: none;
   }
   .half-width-h4 {
-    font-family: Lato, sans-serif;
+    font-family: 'Lato - Web', sans-serif;
     line-height: 30px;
   }
   .trial-signup {
@@ -7041,7 +7041,7 @@ html.w-mod-js *[data-ix="bulb-appear"] {
     padding: 25px 0px 25px 35px;
     float: none;
     clear: left;
-    font-family: Lato, sans-serif;
+    font-family: 'Lato - Web', sans-serif;
     color: #646464;
     font-size: 18px;
     text-align: left;
@@ -7242,7 +7242,7 @@ html.w-mod-js *[data-ix="bulb-appear"] {
     color: #32e29c;
   }
   .mobile-nav-6.demo {
-    font-family: Lato, sans-serif;
+    font-family: 'Lato - Web', sans-serif;
     color: #40b9fc;
   }
   .mobile-nav-6.call-us {
@@ -7399,7 +7399,7 @@ html.w-mod-js *[data-ix="bulb-appear"] {
   .mobile-nav-link-7 {
     padding-right: 60px;
     float: right;
-    font-family: Lato, sans-serif;
+    font-family: 'Lato - Web', sans-serif;
     color: #32e29c;
     font-size: 18px;
   }
@@ -7417,7 +7417,7 @@ html.w-mod-js *[data-ix="bulb-appear"] {
   .floating-header {
     padding-top: 13px;
     padding-bottom: 13px;
-    font-family: Lato, sans-serif;
+    font-family: 'Lato - Web', sans-serif;
     color: #ff7e67;
     font-size: 16px;
     font-weight: 400;
@@ -7453,7 +7453,7 @@ html.w-mod-js *[data-ix="bulb-appear"] {
     margin-top: 13px;
     margin-right: auto;
     margin-left: auto;
-    font-family: Lato, sans-serif;
+    font-family: 'Lato - Web', sans-serif;
     color: #40b9fc;
     font-size: 16px;
   }
@@ -7868,7 +7868,7 @@ html.w-mod-js *[data-ix="bulb-appear"] {
     box-shadow: 0 -2px 12px -8px #646464;
   }
   .form-block-2 {
-    font-family: Lato, sans-serif;
+    font-family: 'Lato - Web', sans-serif;
     color: #32e29c;
   }
   .text-block-4 {
@@ -7876,11 +7876,11 @@ html.w-mod-js *[data-ix="bulb-appear"] {
     font-size: 16px;
   }
   .form-block-3 {
-    font-family: Lato, sans-serif;
+    font-family: 'Lato - Web', sans-serif;
     color: #32e29c;
   }
   .form-block-4 {
-    font-family: Lato, sans-serif;
+    font-family: 'Lato - Web', sans-serif;
     color: #32e29c;
     font-size: 16px;
   }
